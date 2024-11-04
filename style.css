@@ -137,13 +137,13 @@ Button-box class selector uses Flex Box Design (flex display) to scale the eleme
     cursor: pointer;
     font: inherit;
     font-size: 16px;
-    color: #D6F2FF;
+    color: #004666;
     text-align: center;
   }
 
 /* Hover effect improves accessibility. */
 .button:hover {
-    background-color: #004666;
+    background-color: #D6F2FF;
   }
 
 
